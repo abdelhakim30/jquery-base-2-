@@ -1,3 +1,3 @@
-# jquery-base-2-
+#exercice jquery-base-2-
 exercice 
 
